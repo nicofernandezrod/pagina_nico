@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cata eró lo máááxxximmmoo"
+title:  "Cata erí lo máááxxximmmoo"
 date:   2017-07-12 11:35:08 -0400
 categories: jekyll update
 ---
