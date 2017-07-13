@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cata erí lo máááxxximmmoo"
+title:  "Viva el votaaaaaaaa!"
 date:   2017-07-12 11:35:08 -0400
 categories: jekyll update
 ---
